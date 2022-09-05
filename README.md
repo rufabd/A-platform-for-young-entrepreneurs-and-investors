@@ -71,11 +71,14 @@ Welcome page
 ![Welcome Page](https://user-images.githubusercontent.com/72948977/188366886-029ad543-ad5c-40b2-a8da-ae3dd6530989.png)
 
 Register (with different roles like founder, skilled person or investor) and Login page
-
 ![RegisterForm](https://user-images.githubusercontent.com/72948977/188367096-a9bb3ba5-0c2d-4252-adf5-6650c6682843.png)
 ![Login form](https://user-images.githubusercontent.com/72948977/188367098-86e2486b-dbe8-492d-80d0-b6412b74bb39.png)
 
 My profile page visible only for the user himself/herself
-
 ![Profile infor page](https://user-images.githubusercontent.com/72948977/188367651-29b57b98-a2c5-42c1-a52d-c891f6a93f6e.png)
 
+Chatting page load for starting conversation with other users
+![ChatifyFirstSight](https://user-images.githubusercontent.com/72948977/188368195-306e8eee-3628-409a-8d51-6562948149ea.png)
+
+Specific post page for the founder which contains commenting and replying to the comments functionalities
+![Special project post page](https://user-images.githubusercontent.com/72948977/188368403-85209670-2377-470a-9932-3eb02c700145.png)
