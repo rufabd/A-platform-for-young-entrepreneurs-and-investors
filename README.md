@@ -87,3 +87,5 @@ My profile page visible only for the user himself/herself
 ![Profile infor page](https://user-images.githubusercontent.com/72948977/188367651-29b57b98-a2c5-42c1-a52d-c891f6a93f6e.png)
 
 
+## Final Notes
+There are much more functionalities and mockups for this project but I wanted to show the main parts of the project. In actual project, for every type of user role, the functionalities and design can differ.
