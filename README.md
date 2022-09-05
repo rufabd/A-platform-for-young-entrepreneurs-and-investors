@@ -66,12 +66,16 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 ## Project Mockups
 
-Welcome page:
+Welcome page
 
 ![Welcome Page](https://user-images.githubusercontent.com/72948977/188366886-029ad543-ad5c-40b2-a8da-ae3dd6530989.png)
 
-Register (with different roles like founder, skilled person or investor) and Login page:
+Register (with different roles like founder, skilled person or investor) and Login page
 
 ![RegisterForm](https://user-images.githubusercontent.com/72948977/188367096-a9bb3ba5-0c2d-4252-adf5-6650c6682843.png)
 ![Login form](https://user-images.githubusercontent.com/72948977/188367098-86e2486b-dbe8-492d-80d0-b6412b74bb39.png)
+
+My profile page visible only for the user himself/herself
+
+![Profile infor page](https://user-images.githubusercontent.com/72948977/188367651-29b57b98-a2c5-42c1-a52d-c891f6a93f6e.png)
 
