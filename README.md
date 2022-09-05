@@ -74,6 +74,7 @@ Chatting page load for starting conversation with other users
 ![ChatifyFirstSight](https://user-images.githubusercontent.com/72948977/188368195-306e8eee-3628-409a-8d51-6562948149ea.png)
 
 Specific post page for the founder which contains commenting and replying to the comments functionalities
+
 ![Special project post page](https://user-images.githubusercontent.com/72948977/188368403-85209670-2377-470a-9932-3eb02c700145.png)
 
 Register (with different roles like founder, skilled person or investor) and Login page
