@@ -88,4 +88,4 @@ My profile page visible only for the user himself/herself
 
 
 ## Final Notes
-There are much more functionalities and mockups for this project but I wanted to show the main parts of the project. In actual project, for every type of user role, the functionalities and design can differ.
+There are much more functionalities and mockups for this project but I wanted to show the main parts of the project. In actual project, for every type of user role, the functionalities and design can differ..
